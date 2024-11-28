@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Pranay Haldiya and I'm a tech enthusiast </h2>
  
 ###
-<img align="right" height="150" src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al"  />
+<img align="right" height="150" src="https://cdn.pixabay.com/photo/2024/03/12/09/28/ai-generated-8628373_1280.png"  />
 
 ###
 
