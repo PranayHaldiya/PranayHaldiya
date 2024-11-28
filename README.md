@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
+<h2 align="left">Hi 👋! My name is Pranay Haldiya and I'm a tech enthusiast </h2>
+ 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY />
 
 ###
 
