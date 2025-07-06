@@ -3,33 +3,30 @@
 ###
 <img align="right" height="150" src="https://cdn.pixabay.com/photo/2024/03/12/09/28/ai-generated-8628373_1280.png"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo" />
-   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"height="30" alt="nodejs logo" />
-   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"height="30" alt="expressjs logo" />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="expressjs logo" />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="expressjs logo" />
-</div>
+## ⚙️ Tech Stack
+
+```Programming Languages```
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
+
+```Front-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,materialui,bootstrap&theme=light)](https://skills.thijs.gg)
+
+```Back-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,express&theme=light)](https://skills.thijs.gg)
+
+```Databases```
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skills.thijs.gg)
+
+```Tools & Platforms```
+
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light)](https://skills.thijs.gg)
+
+---
 
 ###
 
