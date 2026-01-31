@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pranay Haldiya and I'm a Software Developer | AI | Tech Enthusiast </h2>
+<h2 align="left">Hi 👋! My name is Pranay Haldiya and I'm a Software Developer | AI | Web3 | Tech Enthusiast </h2>
 
 
 ## ⚙️ Tech Stack
