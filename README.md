@@ -53,7 +53,7 @@
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranayHaldiya&theme=tokyo-night&cache_seconds=1800)](https://github.com/ritik-M0)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranayHaldiya&theme=tokyo-night&cache_seconds=1800)](https://github.com/PranayHaldiya)
 
 </div>
 
