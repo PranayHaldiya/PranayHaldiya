@@ -32,6 +32,31 @@
 
 ---
 
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PranayHaldiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayHaldiya&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranayHaldiya&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 **Activity Graph**
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranayHaldiya&theme=tokyo-night&cache_seconds=1800)](https://github.com/ritik-M0)
+
+</div>
+
 ###
 
 <div align="left">
