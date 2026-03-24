@@ -13,15 +13,15 @@
 
 ```Back-End Technologies```
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,express&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,express,django,fastapi,nestjs&theme=light)](https://skills.thijs.gg)
 
 ```Databases```
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,supabase&theme=light)](https://skills.thijs.gg)
 
 ```Tools & Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma,docker,kubernetes&theme=light)](https://skills.thijs.gg)
 
 <p align="start">
   <img src="https://img.shields.io/badge/AI%20SDK-black?style=for-the-badge&logo=vercel&logoColor=white" />
