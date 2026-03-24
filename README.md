@@ -5,7 +5,7 @@
 
 ```Programming Languages```
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,rust&theme=light)](https://skills.thijs.gg)
 
 ```Front-End Technologies```
 
