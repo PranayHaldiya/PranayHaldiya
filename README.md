@@ -17,7 +17,7 @@
 
 ```Databases```
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,supabase&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,supabase,prisma&theme=light)](https://skills.thijs.gg)
 
 ```Tools & Platforms```
 
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/AI%20SDK-black?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Agno-4B8BBE?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mastra-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
